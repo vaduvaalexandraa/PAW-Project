@@ -1,0 +1,12 @@
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\bin\Debug\Proiect_paw.exe.config
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\bin\Debug\Proiect_paw.exe
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\bin\Debug\Proiect_paw.pdb
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.csproj.AssemblyReference.cache
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.csproj.SuggestedBindingRedirects.cache
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.Properties.Resources.resources
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.csproj.GenerateResource.cache
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.csproj.CoreCompileInputs.cache
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.exe
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.pdb
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.Form1.resources
+C:\Users\exemp\Documents\FACULTATE\PAW\Proiect_paw\Proiect_paw\obj\Debug\Proiect_paw.Form2.resources
